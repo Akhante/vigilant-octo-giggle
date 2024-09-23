@@ -194,4 +194,18 @@ font-weight: lighter;
     padding-right: 20px;
 }
 
+.footer {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+}
+
+.text5 {
+color: #F9FAF8;
+font-weight: lighter;
+}
+
 
